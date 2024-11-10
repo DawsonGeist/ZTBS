@@ -1,0 +1,9 @@
+{
+    "A": {
+        "type": "city",
+        "population": 100,
+        "cash": 10000,
+        "gas": 1000,
+        "TODO": 1
+    }
+}
